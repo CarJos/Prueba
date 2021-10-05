@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: beige;
+}
+
+.enlaces {
+    color: black;
+}
+
+.Titulos {
+    color: red;
+}
